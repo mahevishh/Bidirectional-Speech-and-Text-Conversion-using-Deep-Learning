@@ -1,0 +1,2 @@
+# Bidirectional-Speech-and-Text-Conversion-using-Deep-Learning
+Bidirectional Speech and Text Conversion using Deep Learning A deep learning–powered project that performs both Speech-to-Text (using Wav2Vec2 by Facebook AI) and Text-to-Speech (using Google TTS). It allows users to speak through the microphone or input text, and get real-time text or voice output. Built with Streamlit for an interactive front end
